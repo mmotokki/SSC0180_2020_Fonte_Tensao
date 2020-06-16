@@ -59,6 +59,8 @@ Projeto de estudo e desenvolvimento de uma fonte elétrica na matéria de SSC018
 * http://tinyurl.com/yb2yxa53
 
 ## Projeto do Esquemático e do PCB no EAGLE
+<img src="https://ibb.co/4K5x9mC">
+<img src="https://ibb.co/gS7Qkrx">
 
 ## Fotos do Circuito (EM BREVE)
 ` incluir fotos da placa/protoboard`
